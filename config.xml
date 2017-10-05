@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>payco</name>
+	<displayName><![CDATA[ePayco]]></displayName>
+	<version><![CDATA[2.0.0]]></version>
+	<description><![CDATA[ePayco, Tarjetas de Credito, Debito PSE, SafetyPay y Efectivo]]></description>
+	<author><![CDATA[epayco]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
