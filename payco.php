@@ -95,7 +95,8 @@ class Payco extends PaymentModule
   
 
         parent::__construct();
-        $this->version="2.0";
+
+        $this->version="2.0.0";
         $this->displayName = $this->l('payco');
         $this->description = $this->l('ePayco, Tarjetas de Credito, Debito PSE, SafetyPay y Efectivo');
 
